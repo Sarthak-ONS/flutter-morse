@@ -1,7 +1,7 @@
 name: flutter_morse
-description: A new Flutter package project.
+description: A new Flutter package for converting String and numbers to Morse Code.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Sarthak-ONS/flutter-morse.git
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
